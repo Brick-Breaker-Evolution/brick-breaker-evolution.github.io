@@ -1,4 +1,4 @@
-#**Privacy Policy**
+# **Privacy Policy**
 
 Attila Orosz built the Brick Pong app as a Free app. This SERVICE is provided by Attila Orosz at no cost and is intended for use as is.
 
