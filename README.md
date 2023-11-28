@@ -1,4 +1,4 @@
-![Brick Pong](/Screenshots/main.png)
+<div align="center">![Brick Pong](/Screenshots/main.png)</div>
 
 With a minimalist style, that pays homage to the breakout games of the past, Brick Pong offers a unique and engaging experience. With minimalist, hand-drawn graphics, a toned-down color palette inspired by the 70s, the game captures the essence of nostalgia while delivering a fresh spin on a timeless classic.
 
@@ -35,11 +35,11 @@ Get ready to break some bricks!
 
 ✅ Play as much as you want, no need to wait for lives or energy to recharge
 
-<a href='https://play.google.com/store/apps/details?id=com.attilaoroszdev.brickpong&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<div align="center"><a href='https://play.google.com/store/apps/details?id=com.attilaoroszdev.brickpong&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></div>
 
 <sup>Google Play and the Google Play logo are trademarks of Google LLC.</sup>
 
 # Trailer
 
-[![Video](https://img.youtube.com/vi/ZokMwGUlpwY/hqdefault.jpg)](https://www.youtube.com/watch?v=ZokMwGUlpwY)
+<p align="center">[![Video](https://img.youtube.com/vi/ZokMwGUlpwY/hqdefault.jpg)](https://www.youtube.com/watch?v=ZokMwGUlpwY)</div>
 
