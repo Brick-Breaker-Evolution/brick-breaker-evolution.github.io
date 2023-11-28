@@ -15,14 +15,23 @@ Get ready to break some bricks!
 
 Features
 
-✅ Hours of highly addictive, fast-paced, dynamic gameplay 
+✅ Hours of highly addictive, fast-paced, dynamic gameplay
+
 ✅ 50 increasingly difficult levels (more to come)
+
 ✅ 16 unique items to unlock as you advance in the game (more to come)
+
 ✅ Hand-drawn graphics with a retro feel and colour scheme, and a minimalist, clean, distraction-free interface
+
 ✅ Various challenges with cool prizes
+
 ✅ A real 2D physics engine
+
 ✅ Adjustable ball speed (play faster for more points, or take it easy)
+
 ✅ Fully offline, no accounts or logins required (only advertisements will need internet connection), initially created to host the Privacy Policy as required by Google Play Store.
+
 ✅ No disruptive ads during gameplay, or between levels
+
 ✅ Play as much as you want, no need to wait for lives or energy to recharge
 
