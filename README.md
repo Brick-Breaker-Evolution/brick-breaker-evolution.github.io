@@ -13,7 +13,7 @@ With its meticulously designed levels, and addictive gameplay, Brick Pong will i
 Get ready to break some bricks!
 
 
-Features
+# Features
 
 ✅ Hours of highly addictive, fast-paced, dynamic gameplay
 
@@ -35,3 +35,15 @@ Features
 
 ✅ Play as much as you want, no need to wait for lives or energy to recharge
 
+<a href='https://play.google.com/store/apps/details?id=com.attilaoroszdev.brickpong&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
+<sub>Google Play and the Google Play logo are trademarks of Google LLC.</sub>
+
+![Screenshot](/Screenshots/screen_1)
+![Screenshot](/Screenshots/screen_2)
+![Screenshot](/Screenshots/screen_3)
+![Screenshot](/Screenshots/screen_4)
+![Screenshot](/Screenshots/screen_5)
+![Screenshot](/Screenshots/screen_6)
+![Screenshot](/Screenshots/screen_7)
+![Screenshot](/Screenshots/screen_8)
