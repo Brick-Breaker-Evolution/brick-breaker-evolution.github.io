@@ -41,4 +41,4 @@ Get ready to break some bricks!
 
 # Trailer
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZokMwGUlpwY?si=IyxxLQ_okHWhssmx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video](https://img.youtube.com/vi/ZokMwGUlpwY/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZokMwGUlpwY)
