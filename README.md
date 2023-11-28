@@ -1,4 +1,4 @@
-<div align="center"><img alt='Brick Pong' src='~/Screenshots/main.png)'></div>
+<div align="center"><img alt='Brick Pong' src='/Screenshots/main.png)'></div>
 
 <br />
 With a minimalist style, that pays homage to the breakout games of the past, Brick Pong offers a unique and engaging experience. With minimalist, hand-drawn graphics, a toned-down color palette inspired by the 70s, the game captures the essence of nostalgia while delivering a fresh spin on a timeless classic.
