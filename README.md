@@ -41,4 +41,5 @@ Get ready to break some bricks!
 
 # Trailer
 
-![[!Brick Pong Trailer on YouTube](http://img.youtube.com/vi/ZokMwGUlpwY/0.jpg)](http://www.youtube.com/watch?v=ZokMwGUlpwY "Brick Pong Trailer on YouTube")
+[![Video](https://img.youtube.com/vi/ZokMwGUlpwY/hqdefault.jpg)](https://www.youtube.com/watch?v=ZokMwGUlpwY)
+
