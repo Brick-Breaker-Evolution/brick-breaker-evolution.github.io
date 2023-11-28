@@ -36,15 +36,9 @@ Get ready to break some bricks!
 ✅ Play as much as you want, no need to wait for lives or energy to recharge
 
 <a href='https://play.google.com/store/apps/details?id=com.attilaoroszdev.brickpong&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
 <sup>Google Play and the Google Play logo are trademarks of Google LLC.</sup>
 
-# Screenshots
+# Trailer
 
-![Screenshot](/Screenshots/screen_1.jpg)
-![Screenshot](/Screenshots/screen_2.jpg)
-![Screenshot](/Screenshots/screen_3.jpg)
-![Screenshot](/Screenshots/screen_4.jpg)
-![Screenshot](/Screenshots/screen_5.jpg)
-![Screenshot](/Screenshots/screen_6.jpg)
-![Screenshot](/Screenshots/screen_7.jpg)
-![Screenshot](/Screenshots/screen_8.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZokMwGUlpwY?si=IyxxLQ_okHWhssmx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
