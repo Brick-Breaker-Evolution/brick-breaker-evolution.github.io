@@ -1,6 +1,6 @@
-<p align="center">![Brick Pong](/Screenshots/main.png)</p>
+<div align="center">![Brick Pong](/Screenshots/main.png)</div>
 
-
+&nbsp;
 With a minimalist style, that pays homage to the breakout games of the past, Brick Pong offers a unique and engaging experience. With minimalist, hand-drawn graphics, a toned-down color palette inspired by the 70s, the game captures the essence of nostalgia while delivering a fresh spin on a timeless classic.
 
 Get ready for a fast-paced and dynamic gameplay. You can move your paddle in all directions, affecting the ball’s speed and spin. The ball’s movements are governed by real 2D physics, making it more realistic. 
@@ -41,7 +41,5 @@ Get ready to break some bricks!
 <div align="center"><sup>Google Play and the Google Play logo are trademarks of Google LLC.</sup></div>
 
 # Trailer
-
-<div align="center">[![Video](https://img.youtube.com/vi/ZokMwGUlpwY/hqdefault.jpg)](https://www.youtube.com/watch?v=ZokMwGUlpwY)</div>
 
 <div align="center"><a href='https://www.youtube.com/watch?v=ZokMwGUlpwY'><img alt='Brick Pong trailer on YouTube' src='https://img.youtube.com/vi/ZokMwGUlpwY/hqdefault.jpg'/></a></div>
