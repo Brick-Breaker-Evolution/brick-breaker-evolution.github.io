@@ -15,14 +15,14 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 ## Screenshots
 
 <div  style="height: 400px; display: flex;  flex-flow: row wrap;  justify-content: center">
-  <img src = "./Screenshots/screen_1.jpg" style="height: 400px;"/>
-  <img src = "./Screenshots/screen_2.jpg" style="height: 400px;"/>
-  <img src = "./Screenshots/screen_3.jpg" style="height: 400px;"/>
-  <img src = "./Screenshots/screen_4.jpg" style="height: 400px;"/>
-  <img src = "./Screenshots/screen_5.jpg" style="height: 400px;"/>
-  <img src = "./Screenshots/screen_6.jpg" style="height: 400px;"/>
-  <img src = "./Screenshots/screen_7.jpg" style="height: 400px;"/>
-  <img src = "./Screenshots/screen_8.jpg" style="height: 400px;"/>
+  <img src = "./Screenshots/screen_1.jpg" style="height: 700px;"/>
+  <img src = "./Screenshots/screen_2.jpg" style="height: 700px;"/>
+  <img src = "./Screenshots/screen_3.jpg" style="height: 700px;"/>
+  <img src = "./Screenshots/screen_4.jpg" style="height: 700px;"/>
+  <img src = "./Screenshots/screen_5.jpg" style="height: 700px;"/>
+  <img src = "./Screenshots/screen_6.jpg" style="height: 700px;"/>
+  <img src = "./Screenshots/screen_7.jpg" style="height: 700px;"/>
+  <img src = "./Screenshots/screen_8.jpg" style="height: 700px;"/>
 </div>
 
 ## Features
