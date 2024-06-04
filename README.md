@@ -1,7 +1,6 @@
 ---
-
-title: Welcome to the Brick Pong official github.io page
-
+layout: null
+title: "Welcome to the Brick Pong official github.io page"
 ---
 
 ![Brick Pong](Screenshots/main.png)
