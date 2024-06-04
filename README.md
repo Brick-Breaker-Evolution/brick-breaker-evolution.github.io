@@ -30,8 +30,17 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 ## Or see it in action
 
-<iframe style="display: block !important; margin:0 auto !important;" width="560" height="315" src="https://www.youtube.com/embed/jFMNSG9pJ3Y?si=Y7qOG2CgwYF52jBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+YouTube
 
+<iframe width="320" height="180" src="https://www.youtube.com/embed/jFMNSG9pJ3Y?si=Y7qOG2CgwYF52jBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+self hosted
+
+
+<video width="320" height="180" controls>
+  <source src="./Videos/BrickPong__PlayStore_Final.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
 
 <br />
 
