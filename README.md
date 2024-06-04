@@ -1,7 +1,7 @@
 ![Brick Pong](Screenshots/main.png)
 
 <br />
-<div>
+
 Brick Pong revolutionises the classic breakout genre with a **unique twist**: Experience unrestricted paddle movement in all directions, whilst the ball responds to **gravity, friction, torque, and paddle impact** driven by a powerful **2D physics engine**.
 
 This is the **most dynamic brick breaker game** you've ever tried. Conquer the **50 increasingly challenging levels** and unlock a range of items that can aid or hinder your progress. Strategise and make split-second decisions to utilise power-ups effectively and overcome obstacles.
@@ -14,25 +14,21 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 ## Screenshots
 
-</div>
-<div>
 <table border="0" >
-    <tr border="0" style="background-color:transparent">
-        <td border="0" style="background-color:transparent"><img src = "./Screenshots/screen_1.jpg" style="height: 400px;"/></td>
-        <td border="0" style="background-color:transparent"><img src = "./Screenshots/screen_2.jpg" style="height: 400px;"/></td>
-        <td border="0" style="background-color:transparent"><img src = "./Screenshots/screen_3.jpg" style="height: 400px;"/></td>
-        <td border="0" style="background-color:transparent"><img src = "./Screenshots/screen_4.jpg" style="height: 400px;"/></td>
+    <tr border="0" style="border:none !important; background-color:transparent">
+        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_1.jpg" style="height: 400px;"/></td>
+        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_2.jpg" style="height: 400px;"/></td>
+        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_3.jpg" style="height: 400px;"/></td>
+        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_4.jpg" style="height: 400px;"/></td>
     </tr>
-    <tr border="0" style="background-color:transparent">
-        <td border="0" style="background-color:transparent"><img src = "./Screenshots/screen_5.jpg" style="height: 400px;"/></td>
-        <td border="0" style="background-color:transparent"><img src = "./Screenshots/screen_6.jpg" style="height: 400px;"/></td>
-        <td border="0" style="background-color:transparent"><img src = "./Screenshots/screen_7.jpg" style="height: 400px;"/></td>
-        <td border="0" style="background-color:transparent"><img src = "./Screenshots/screen_8.jpg" style="height: 400px;"/></td>
+    <tr border="0" style="border:none !important; background-color:transparent">
+        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_5.jpg" style="height: 400px;"/></td>
+        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_6.jpg" style="height: 400px;"/></td>
+        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_7.jpg" style="height: 400px;"/></td>
+        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_8.jpg" style="height: 400px;"/></td>
     </tr>
 </table>
 
-</div
-<div>
 
 ## Features
 
@@ -60,4 +56,4 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 <div align="center"><sup>Google Play and the Google Play logo are trademarks of Google LLC.</sup></div>
 
-</div>
+
