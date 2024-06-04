@@ -15,6 +15,7 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 ## Screenshots
 
 </div>
+<div>
 <table border="0" >
     <tr border="0" style="background-color:transparent">
         <td border="0" style="background-color:transparent"><img src = "./Screenshots/screen_1.jpg" style="height: 400px;"/></td>
@@ -30,6 +31,7 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
     </tr>
 </table>
 
+</div
 <div>
 
 ## Features
