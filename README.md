@@ -15,18 +15,18 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 ## Screenshots
 
 </div>
-<table style="border: none !important;background-color:transparent">
-    <tr style="border: none !important;background-color:transparent">
-        <td style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_1.jpg" style="height: 400px;"/></td>
-        <td style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_2.jpg" style="height: 400px;"/></td>
-        <td style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_3.jpg" style="height: 400px;"/></td>
-        <td style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_4.jpg" style="height: 400px;"/></td>
+<table border="0"   bgcolor="#ffffff" style=" !important;background-color:transparent">
+    <tr border="0" style="border: none !important;background-color:transparent">
+        <td border="0" style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_1.jpg" style="height: 400px;"/></td>
+        <td border="0" style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_2.jpg" style="height: 400px;"/></td>
+        <td border="0" style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_3.jpg" style="height: 400px;"/></td>
+        <td border="0" style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_4.jpg" style="height: 400px;"/></td>
     </tr>
-    <tr style="border: none !important;background-color:transparent">
-        <td style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_5.jpg" style="height: 400px;"/></td>
-        <td style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_6.jpg" style="height: 400px;"/></td>
-        <td style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_7.jpg" style="height: 400px;"/></td>
-        <td style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_8.jpg" style="height: 400px;"/></td>
+    <tr border="0" style="border: none !important;background-color:transparent">
+        <td border="0" style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_5.jpg" style="height: 400px;"/></td>
+        <td border="0" style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_6.jpg" style="height: 400px;"/></td>
+        <td border="0" style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_7.jpg" style="height: 400px;"/></td>
+        <td border="0" style="border: none !important;background-color:transparent"><img src = "./Screenshots/screen_8.jpg" style="height: 400px;"/></td>
     </tr>
 </table>
 
