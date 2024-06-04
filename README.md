@@ -14,25 +14,23 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 ## Have a loot at these screenshots
 
-<table border="0" style="border:none !important; background-color:transparent">
-    <tr border="0" style="border:none !important; background-color:transparent">
-        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_1.jpg" style="height: 400px;"/></td>
-        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_2.jpg" style="height: 400px;"/></td>
-        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_3.jpg" style="height: 400px;"/></td>
-        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_4.jpg" style="height: 400px;"/></td>
-    </tr>
-    <tr border="0" style="border:none !important; background-color:transparent">
-        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_5.jpg" style="height: 400px;"/></td>
-        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_6.jpg" style="height: 400px;"/></td>
-        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_7.jpg" style="height: 400px;"/></td>
-        <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_8.jpg" style="height: 400px;"/></td>
-    </tr>
-</table>
+
+<div  style="display: flex;  flex-flow: row wrap;  justify-content: center">
+    <img src = "./Screenshots/screen_1.jpg" style="height: 400px;"/>
+    <img src = "./Screenshots/screen_2.jpg" style="height: 400px;"/>
+    <img src = "./Screenshots/screen_3.jpg" style="height: 400px;"/>
+    <img src = "./Screenshots/screen_4.jpg" style="height: 400px;"/>
+    <img src = "./Screenshots/screen_5.jpg" style="height: 400px;"/>
+    <img src = "./Screenshots/screen_6.jpg" style="height: 400px;"/>
+    <img src = "./Screenshots/screen_7.jpg" style="height: 400px;"/>
+    <img src = "./Screenshots/screen_8.jpg" style="height: 400px;"/>
+</div>
+
 
 
 ## Or see it in action
 
-<iframe style="display: block !important; margin:0 auto !important;" width="840" height="472" src="https://www.youtube.com/embed/jFMNSG9pJ3Y?si=Y7qOG2CgwYF52jBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="display: block !important; margin:0 auto !important;" width="560" height="315" src="https://www.youtube.com/embed/jFMNSG9pJ3Y?si=Y7qOG2CgwYF52jBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <br />
