@@ -29,11 +29,12 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 
 ## Or see it in action
-
-<video width="320" height="180" controls style="margin:0 auto !important;">
-  <source src="./Videos/BrickPong__PlayStore_Final.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
+<div  style="display: flex;  flex-flow: row;  align-content: cener; justify-content: center">
+    <video width="320" height="180" controls style="margin:0 auto !important;">
+      <source src="./Videos/BrickPong__PlayStore_Final.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+</div>
 
 <br />
 
