@@ -12,6 +12,19 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 **Get ready to break some bricks!**
 
+## Screenshots
+
+<div  style="display: flex;  flex-flow: row wrap;  justify-content: center">
+  <img src = "./Screenshots/screen_1.jpg" />
+  <img src = "./Screenshots/screen_2.jpg" />
+  <img src = "./Screenshots/screen_3.jpg" />
+  <img src = "./Screenshots/screen_4.jpg" />
+  <img src = "./Screenshots/screen_5.jpg" />
+  <img src = "./Screenshots/screen_6.jpg" />
+  <img src = "./Screenshots/screen_7.jpg" />
+  <img src = "./Screenshots/screen_8.jpg" />
+</div>
+
 ## Features
 
 ✅ Hours of highly addictive, fast-paced, dynamic gameplay
