@@ -13,7 +13,7 @@ This cryptographic identifier is then sent to the server, along with your chosen
 This is approximately **as private and secure as the game developer can currently imagine**, but if it can be made even more so (while preserving functionality), it will be done in the future.
 
 ### Deleting your data
-
+<div style = "img{mergin-left:auto;margin-right:auto}">
 You can ***completely remove all stored data***, by simply **resetting the game**. To do this, Press *Settings* from the main menu...
 
 ![The Settings Button](screen_1.png)
@@ -25,7 +25,7 @@ You can ***completely remove all stored data***, by simply **resetting the game*
 ...and accept the prompt...
 
 ![The Confirmation prompt](screen_3.png)
-
+</div>
 ...and you are done.
 
 Besides resetting your current progress, this action will remove all data stored in the Leaderboards backend server. Since there is no user account associated with you or your device, removing the currently stored scores means removing all your data. No new scores will be stored, until you set a new highscore.
