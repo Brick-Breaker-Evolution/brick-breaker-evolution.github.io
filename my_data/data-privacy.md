@@ -21,6 +21,7 @@ You can ***completely remove all stored data***, by simply **resetting the game*
   <img src = "./screen_1.png" />
   <br />
 </div>
+<br />
 
 ...scroll down, until you see the button labelled *Reset Player*...
 
@@ -30,6 +31,7 @@ You can ***completely remove all stored data***, by simply **resetting the game*
   <img src = "./screen_2.png" />
   <br />
 </div>
+<br />
 
 ...and accept the prompt...
 
@@ -39,6 +41,7 @@ You can ***completely remove all stored data***, by simply **resetting the game*
   <img src = "./screen_3.png" />
   <br />
 </div>
+<br />
 
 ...and you are done.
 
