@@ -12,7 +12,7 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 **Get ready to break some bricks!**
 
-## Screenshots
+## Have a loot at some screenshots
 
 <table border="0" style="border:none !important; background-color:transparent">
     <tr border="0" style="border:none !important; background-color:transparent">
@@ -28,6 +28,11 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
         <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_8.jpg" style="height: 400px;"/></td>
     </tr>
 </table>
+
+
+## Or see it in action
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jFMNSG9pJ3Y?si=Y7qOG2CgwYF52jBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Features
