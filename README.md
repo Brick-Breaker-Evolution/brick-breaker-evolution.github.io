@@ -14,7 +14,7 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 ## Screenshots
 
-<table border="0" >
+<table border="0" style="border:none !important; background-color:transparent">
     <tr border="0" style="border:none !important; background-color:transparent">
         <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_1.jpg" style="height: 400px;"/></td>
         <td border="0" style="border:none !important; background-color:transparent"><img src = "./Screenshots/screen_2.jpg" style="height: 400px;"/></td>
