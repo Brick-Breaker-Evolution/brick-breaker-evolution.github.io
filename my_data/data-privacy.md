@@ -17,21 +17,27 @@ This is approximately **as private and secure as the game developer can currentl
 You can ***completely remove all stored data***, by simply **resetting the game**. To do this, Press *Settings* from the main menu...
 
 <div style="text-align: center">
+  <br />
   <img src = "./screen_1.png" />
+  <br />
 </div>
 
 ...scroll down, until you see the button labelled *Reset Player*...
 
 
 <div style="text-align: center">
+  <br />
   <img src = "./screen_2.png" />
+  <br />
 </div>
 
 ...and accept the prompt...
 
 
 <div style="text-align: center">
+  <br />
   <img src = "./screen_3.png" />
+  <br />
 </div>
 
 ...and you are done.
