@@ -14,7 +14,7 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 ## Screenshots
 
-<div  style="display: flex;  flex-flow: row wrap;  justify-content: center">
+<div  style="height: 300px; display: flex;  flex-flow: row wrap;  justify-content: center">
   <img src = "./Screenshots/screen_1.jpg" />
   <img src = "./Screenshots/screen_2.jpg" />
   <img src = "./Screenshots/screen_3.jpg" />
