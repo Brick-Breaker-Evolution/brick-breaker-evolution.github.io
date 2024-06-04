@@ -53,3 +53,5 @@ Besides resetting your current progress, this action will remove all data stored
 If you have deleted Brick Pong, and want to get rid of your stored data, **you only need to reinstall the game on the same device and open it once with an active internet connection**. Since your scores will be now zero, all corresponding stored scores will be reset (in practice, they are deleted from the server).This is possibly, since the cryptographic identifier for your device will be the same as last time (since it is created the same way).
 
 Since **there is no way to identify you or your device, the developer cannot offer to manually remove your score** (I would not know what to delete, or which score was yours).
+
+*[Back to main page](https://attila-o-games.github.io/)*
