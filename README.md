@@ -32,7 +32,7 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 ## Or see it in action
 
-<iframe style=" display: block; margin:0 auto;" width="560" height="315" src="https://www.youtube.com/embed/jFMNSG9pJ3Y?si=Y7qOG2CgwYF52jBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="display: block !important; margin:0 auto !important;" width="840" height="472" src="https://www.youtube.com/embed/jFMNSG9pJ3Y?si=Y7qOG2CgwYF52jBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
