@@ -24,14 +24,14 @@ You can ***completely remove all stored data***, by simply **resetting the game*
 
 
 <div style="text-align: center">
-![The Reset Button](screen_2.png)
+  <img src = "./screen_2.png" />
 </div>
 
 ...and accept the prompt...
 
 
 <div style="text-align: center">
-![The Confirmation prompt](screen_3.png)
+  <img src = "./screen_3.png" />
 </div>
 
 ...and you are done.
