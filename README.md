@@ -1,6 +1,5 @@
 ![Brick Pong](Screenshots/main.png)
 
-<br />
 
 Brick Pong revolutionises the classic breakout genre with a **unique twist**: Experience unrestricted paddle movement in all directions, whilst the ball responds to **gravity, friction, torque, and paddle impact** driven by a powerful **2D physics engine**.
 
@@ -11,6 +10,8 @@ Complete **various challenges** to earn valuable items and extra balls, and **re
 With its meticulously designed levels and **fast-paced, addictive gameplay**, Brick Pong seamlessly blends nostalgia with a modern twist on retro brick breaker mechanics.
 
 **Get ready to break some bricks!**
+
+<br />
 
 ## Have a loot at these screenshots
 
@@ -26,7 +27,7 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
     <img src = "./Screenshots/screen_8.jpg" style="height: 400px; margin:5px"/>
 </div>
 
-
+<br />
 
 ## Or see it in action
 <div  style="display: flex;  flex-flow: row;  align-content: cener; justify-content: center">
