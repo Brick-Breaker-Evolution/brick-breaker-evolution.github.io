@@ -13,7 +13,7 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 <br />
 
-## Have a loot at these screenshots
+## Have a look at these screenshots
 
 
 <div  style="display: flex;  flex-flow: row wrap;  align-content: space-between; justify-content: center">
