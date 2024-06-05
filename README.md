@@ -63,6 +63,9 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 ✅ Compact download size (~30MB)
 
 
+<br />
+
+
 ## Data protection and privacy
 
 to learn more abouit how we handle your data, read our [Privacy Policy](https://attila-o-games.github.io/Privacy_Policy.html). To learn more about how Leaderboard data is processed in complete anonymity, see [this page](https://attila-o-games.github.io/my_data/data-privacy.html)
