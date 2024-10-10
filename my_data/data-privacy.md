@@ -33,7 +33,7 @@ You can ***completely remove all stored data***, by simply **resetting the game*
 </div>
 <br />
 
-...and accept the prompt...
+...and choose "Do Reset"...
 
 
 <div style="text-align: center">
