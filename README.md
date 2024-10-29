@@ -68,7 +68,7 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 ## Data protection and privacy
 
-to learn more abouit how we handle your data, read our [Privacy Policy](https://attila-o-games.github.io/Privacy_Policy.html). To learn more about how Leaderboard data is processed in complete anonymity, see [this page](https://attila-o-games.github.io/my_data/data-privacy.html)
+to learn more abouit how we handle your data, read our [Privacy Policy](https://brick-breaker-evolution.github.io/Privacy_Policy.html). To learn more about how Leaderboard data is processed in complete anonymity, see [this page](https://brick-breaker-evolution.github.io/my_data/data-privacy.html)
 
 
 <div align="center"><a href='https://play.google.com/store/apps/details?id=com.attilaoroszdev.brickpong&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></div>
