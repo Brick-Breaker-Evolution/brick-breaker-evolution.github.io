@@ -1,5 +1,5 @@
 { 
-  "build": 27,
-  "version": 2.2,
-  "release_notes": "Test release ntoes with [i]greeen[/i] and [b]red[/b] highlihts. Thisone is a bit lner and has a\n\nforced linebreak too..."
+  "build": 33,
+  "version": 2.3,
+  "release_notes": "Changed app name back to Brick Pong"
 }
