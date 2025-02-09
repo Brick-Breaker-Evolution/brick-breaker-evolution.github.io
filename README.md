@@ -1,17 +1,55 @@
 ![Brick Pong](Screenshots/main.png)
 
+<b>Brick Pong: Breakout Evolution</b> revolutionises the classic breakout genre with a <b>unique twist</b>: Experience unrestricted paddle movement in all directions, while the ball is affected by <b>gravity, friction, torque, and paddle impact</b> driven by a powerful <b>2D physics engine</b>.
 
-Brick Pong revolutionises the classic breakout genre with a **unique twist**: Experience unrestricted paddle movement in all directions, whilst the ball responds to **gravity, friction, torque, and paddle impact** driven by a powerful **2D physics engine**.
+This is the <b>most dynamic brick breaker game</b> you have ever tried. Conquer the <b>60 increasingly challenging levels</b>, unlock <b>five secret levels,</b> and a range of items that can aid or hinder your progress. Make split-second decisions to utilise power-ups effectively and overcome obstacles.
 
-This is the **most dynamic brick breaker game** you've ever tried. Conquer the **50 increasingly challenging levels** and unlock a range of items that can aid or hinder your progress. Strategise and make split-second decisions to utilise power-ups effectively and overcome obstacles.
+<strong>These items are:</strong>
+✔ <b>Big Ball:</b> Cuts straight through two bricks before bouncing back (unlocks on level 2)
+✔ <b>Broad Pad:</b> Your pad grows in size, but it will give lower bonuses (unlocks on level 3)
+✔ <b>Narrow Pad:</b> Your pad shrinks in size, but it will give higher bonuses (unlocks on level 4)
+✔ <b>Save Tokens:</b> Save your progress any time (unlocks on level 5)
+✔ <b>Safety barrier:</b> Collectible. Prevents the ball from falling, three time (unlocks on level 6)
+✔ <b>Glow Dagger:</b> The more obvious name is copyrighted. Yes, that <i>is</i> sad (unlocks on level 7)
+✔ <b>Heavy Ball:</b> Slices through  three bricks and cracks black ones (unlocks on level 8)
+✔ <b>Pellet Guns:</b> Your pad starts shooting at bricks (unlocks on level 9)
+✔ <b>Multi-Ball:</b> Play with three balls at once (unlocks on level 10)
+✔ <b>Unstable Pad:</b> It just doesn't want to stay flat (unlocks on level 11)
+✔ <b>Fast Ball:</b> Catch it if you can (unlocks on level 12)
+✔ <b>Teleports:</b> The ball gets instantly teleported to the other end. (appear from level 13)
+✔ <b>Slow Ball:</b> You will need nerves of steel. (unlocks on level 15)
+✔ <b>Ball and Chain:</b> A bigger ball hanging on a chain, swings around the ball (unlocks on level 17)
+✔ <b>Heavy pad:</b> It's slow heavy, it moves slower (unlocks on level 20)
+✔ <b>Pink-PonG Ball:</b> It's so light, you need to hit everything twice with it (unlocks on level 23)
+✔ <b>Shuriken:</b> Cuts right through all bricks, but not black or metal ones (unlocks on level 26)
+✔ <b>Tethered Pad:</b> The pad is attached to a rail, only moving sideways (unlocks on level 29)
+✔ <b>Da Bomb:</b> Collectible,. Destroys an area of bricks on impact (unlocks on level 32)
+✔ <b>Rail-Guns:</b> (Much) bigger guns, (much) stronger shots. (unlocks on level 35)
+✔ <b>Durable Barrier:</b> A safety barrier that lasts twice as long (unlocks on level 40)
+✔ <b>Fixed Teleports:</b> One-way teleports that never swap sides (appear from level 47)
+✔ <b>Marble Ball:</b> Nothing can stop this one, not even metal bricks (unlocks on level 51)
+✔ <b>Sticky Pad:</b> A rail-attached pad that "captures" the ball, so you can aim your shots (unlocks on level 57)
+✔ <b>Secret Portals:</b> Hidden under metal bricks, these will lead you to secret levels when you find them. Once unlocked, they can appear on any level with at least 7 metal bricks (unlocks on level 60)
 
-Complete **various challenges** to earn valuable items and extra balls, and **replay any level as many times as you like**, as each game promises a unique experience.
 
-With its meticulously designed levels and **fast-paced, addictive gameplay**, Brick Pong seamlessly blends nostalgia with a modern twist on retro brick breaker mechanics.
+Complete <b>various challenges</b> to earn Brick Coins, valuable items, and extra balls, and <b>replay any level as many times as you like</b>, as each game promises a unique experience.
 
-**Get ready to break some bricks!**
+Brick Breaker Evolution seamlessly blends nostalgia with a modern twist on retro brick breaker mechanics.
 
-<br />
+<b>Get ready to break some bricks!</b>
+
+<strong>FEATURES (TL;DR:)</strong>
+
+✅ Powered by a real 2D physics engine
+✅ Hours of highly addictive, fast-paced, dynamic gameplay
+✅ 60 increasingly difficult levels (more to come)
+✅ 5 secret levels (more to come)
+✅ 16 unique items to unlock as you advance in the game (more to come)
+✅ Retro-inspired hand-drawn graphics with a minimalist, distraction-free interface
+✅ Engaging challenges with rewarding prizes
+✅ Five difficulty levels
+✅ Fully offline play, no accounts or logins required (internet connection only needed for advertisements, and in-app purchases)
+✅ No disruptive ads (and you can disable the few that appear without having to spend money)
 
 ## Have a look at these screenshots
 
@@ -42,26 +80,25 @@ With its meticulously designed levels and **fast-paced, addictive gameplay**, Br
 
 ## Features
 
+✅ Powered by a real 2D physics engine
+
 ✅ Hours of highly addictive, fast-paced, dynamic gameplay
 
-✅ 50 increasingly difficult levels (more to come)
+✅ 60 increasingly difficult levels (more to come)
 
-✅ 16 unique items to unlock as you advance in the game (more to come)
+✅ 5 secret levels (more to come)
+
+✅ 22 unique items to unlock as you advance in the game (more to come)
 
 ✅ Retro-inspired hand-drawn graphics with a minimalist, distraction-free interface
 
 ✅ Engaging challenges with rewarding prizes
 
-✅ Powered by a real 2D physics engine
+✅ Five difficulty levels
 
-✅ Adjustable ball speed for customisable gameplay
+✅ Fully offline play, no accounts or logins required (internet connection only needed for advertisements, and in-app purchases)
 
-✅ Fully offline play, no accounts or logins required (internet connection only needed for advertisements)
-
-✅ No disruptive ads
-
-✅ Compact download size (~30MB)
-
+✅ No disruptive ads (and you can disable the few that appear without having to spend money)
 
 <br />
 
