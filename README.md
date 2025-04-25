@@ -40,16 +40,16 @@ Brick Breaker Evolution seamlessly blends nostalgia with a modern twist on retro
 
 <strong>FEATURES (TL;DR:)</strong>
 
-✅ Powered by a real 2D physics engine
-✅ Hours of highly addictive, fast-paced, dynamic gameplay
-✅ 60 increasingly difficult levels (more to come)
-✅ 5 secret levels (more to come)
-✅ 16 unique items to unlock as you advance in the game (more to come)
-✅ Retro-inspired hand-drawn graphics with a minimalist, distraction-free interface
-✅ Engaging challenges with rewarding prizes
-✅ Five difficulty levels
-✅ Fully offline play, no accounts or logins required (internet connection only needed for advertisements, and in-app purchases)
-✅ No disruptive ads (and you can disable the few that appear without having to spend money)
+<p>✅ Powered by a real 2D physics engine</p>
+<p>✅ Hours of highly addictive, fast-paced, dynamic gameplay</p>
+<p>✅ 60 increasingly difficult levels (more to come)</p>
+<p>✅ 5 secret levels (more to come)</p>
+<p>✅ 16 unique items to unlock as you advance in the game (more to come)</p>
+<p>✅ Retro-inspired hand-drawn graphics with a minimalist, distraction-free interface</p>
+<p>✅ Engaging challenges with rewarding prizes</p>
+<p>✅ Five difficulty levels</p>
+<p>✅ Fully offline play, no accounts or logins required (internet connection only needed for advertisements, and in-app purchases)</p>
+<p>✅ No disruptive ads (and you can disable the few that appear without having to spend money)</p>
 
 ## Have a look at these screenshots
 
