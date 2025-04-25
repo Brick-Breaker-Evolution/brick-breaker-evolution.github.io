@@ -1,5 +1,5 @@
 { 
-  "build": 34,
+  "build": 35,
   "version": 2.3,
-  "release_notes": "App name changed back to the original Brick Pong"
+  "release_notes": "Fixed loading saved levels with teleports"
 }
