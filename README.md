@@ -38,7 +38,8 @@ Brick Breaker Evolution seamlessly blends nostalgia with a modern twist on retro
 
 <b>Get ready to break some bricks!</b>
 
-<strong>FEATURES (TL;DR:)</strong>
+<br />
+<strong>FEATURES (TL;DR;)</strong>
 
 <p>✅ Powered by a real 2D physics engine</p>
 <p>✅ Hours of highly addictive, fast-paced, dynamic gameplay</p>
