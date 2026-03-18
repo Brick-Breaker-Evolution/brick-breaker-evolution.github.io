@@ -1,5 +1,5 @@
 { 
-  "build": 35,
-  "version": 2.3,
-  "release_notes": "Fixed loading saved levels with teleports"
+  "build": 39,
+  "version": 3.1,
+  "release_notes": "Fixed the mess caused by the 3.0 update... Thank you for your patience!"
 }
