@@ -6,9 +6,11 @@ Since version 1.3 Brick Pong has started offering a new "*Global Leaderboards*" 
 
 #### So how does this even work?
 
-When you first start Brick Pong with a working internet connection (or upgrade from an older version), Brick Pong will create a user on its Leaderboards back-end, provided by [SilentWolf](https://silentwolf.com). For this, a *unique identifier string* is created for your device, which is then cryptographically altered, until it is not only unrecognisable but cannot, in any way, be linked to your phone, your person, or anything you do, other than your game highscore.
+When you first start Brick Pong with a working internet connection (or upgrade from an older version), Brick Pong will create a user on its Leaderboards back-end, provided by [Talo](https://trytalo.com). For this, a *unique identifier string* is created for your device, which is then cryptographically altered, until it is not only unrecognisable but cannot, in any way, be linked to your phone, your person, or anything you do, other than your game highscore.
 
-This cryptographic identifier is then sent to the server, along with your chosen display name and your latest scores, and that's it. **No other data is ever stored, and even the stored data makes no sense outside of the game context.** In other words, **the data is completely anonymous, does not contain any identifiable information, or any meaningful information, other than a few game scores**.
+This cryptographic identifier is then sent to the server, along with your chosen display name and your latest scores, and that's it. **No other device data is ever stored, and even the stored data makes no sense outside of the game context.** In other words, **the data is completely anonymous, does not contain any identifiable information, or any meaningful information, other than a few game scores**.
+
+Other than your current highscores and display name, which are necessary to display the leaderboards, the Talo service is used to save some statistical data, such as what's the last level you have unlocked, how many in-game items (such as bonbs or safety barriers, extra balls, etc.) you currently have, and how many times the game has been opened in total. Since **none of this can be linked back to you in any way, these statistics are also completely anonymous** and only serve as guidelines for further developement.
 
 This is approximately **as private and secure as the game developer can currently imagine**, but if it can be made even more so (while preserving functionality), it will be done in the future.
 
