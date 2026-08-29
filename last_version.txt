@@ -1,5 +1,5 @@
 { 
-  "build": 40,
-  "version": 3.1,
-  "release_notes": "Fixed the mess caused by the 3.0 update... Thank you for your patience!"
+  "build": 41,
+  "version": 3.2,
+  "release_notes": "15 new levels, 6 new items, bug fixes, and more."
 }
