@@ -1,5 +1,5 @@
 { 
   "build": 41,
   "version": 3.2,
-  "release_notes": "15 new levels, 6 new items, bug fixes, and more."
+  "release_notes": "Fifteen new levels, six new items, a new challenge tier, bug fixes, and more."
 }
