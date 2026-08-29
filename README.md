@@ -1,8 +1,8 @@
 ![Brick Pong](Screenshots/main.png)
 
-<b>Brick Pong: Breakout Evolution</b> revolutionises the classic breakout genre with a <b>unique twist</b>: Experience unrestricted paddle movement in all directions, while the ball is affected by <b>gravity, friction, torque, and paddle impact</b> driven by a powerful <b>2D physics engine</b>.
+<b>Brick Pong: Breakout Evolution</b> revolutionises the classic breakout genre with a <b>unique twist</b>: Experience unrestricted paddle movement in all directions, while the ball is affected by <b>gravity, friction, torque, and paddle impact</b> driven by a powerful <b>2D physics engine</b>. 
 
-This is the <b>most dynamic brick breaker game</b> you have ever tried. Conquer the <b>60 increasingly challenging levels</b>, unlock <b>five secret levels,</b> and a range of items that can aid or hinder your progress. Make split-second decisions to utilise power-ups effectively and overcome obstacles.
+This is the <b>most dynamic brick breaker game</b> you have ever tried. Conquer the <b>75 increasingly challenging levels</b>, unlock <b>6 secret levels,</b> and a range of items that can aid or hinder your progress. Make split-second decisions to utilise power-ups effectively and overcome obstacles.
 
 <strong>These items are:</strong>
 <p>✔ <b>Big Ball:</b> Cuts straight through two bricks before bouncing back (unlocks on level 2)</p>
@@ -27,14 +27,20 @@ This is the <b>most dynamic brick breaker game</b> you have ever tried. Conquer 
 <p>✔ <b>Rail-Guns:</b> (Much) bigger guns, (much) stronger shots. (unlocks on level 35)</p>
 <p>✔ <b>Durable Barrier:</b> A safety barrier that lasts twice as long (unlocks on level 40)</p>
 <p>✔ <b>Fixed Teleports:</b> One-way teleports that never swap sides (appear from level 47)</p>
-<p>✔ <b>Marble Ball:</b> Nothing can stop this one, not even metal bricks (unlocks on level 51)</p>
+<p>✔ <b>Marble Ball:</b> Nothing can stop this one, not even metal bricks (unlocks on level 51), or caged bricks (unlocks on level 68)</p>
 <p>✔ <b>Sticky Pad:</b> A rail-attached pad that "captures" the ball, so you can aim your shots (unlocks on level 57)</p>
 <p>✔ <b>Secret Portals:</b> Hidden under metal bricks, these will lead you to secret levels when you find them. Once unlocked, they can appear on any level with at least 7 metal bricks (unlocks on level 60)</p>
+<p>✔ <b>Mystery Box:</b> Can contain anything from pad upgrades, to ball items, Brick Coins, extra score or even score loss.
+<p>✔ <b>Shooting Balls:</b> The ball gains two mini-guns, shooting at the brick as it flies.
+<p>✔ <b>Caged bricks:</b> Regular brick, imprisoned in a metal cage. Liberate them (with the appropriate items), so you can destroy them. (Any resemblance to recent world history is a complete coincidence...)
+<p>✔ <b>Da Big Bomb:</b> Like Da Bomb, bit BIG. Bigger Bang (it's actually a Bumm), and more destructive power. Use it against metal plated bricks, and even caged bricks
+<p>✔ <b>Magic Mirror:</b> When you enter the Mirrorverse, everything gets turned around, even the movements of the pad!. The effect lasts for 30 seconds.
+<p>✔ <b>Brickanator:</b> A Brick (re-)generator that will periodically turn itself on. If the ball hits it while active, it will restore a randm amount of already destroyed bricks.
 
 
 Complete <b>various challenges</b> to earn Brick Coins, valuable items, and extra balls, and <b>replay any level as many times as you like</b>, as each game promises a unique experience.
 
-Brick Breaker Evolution seamlessly blends nostalgia with a modern twist on retro brick breaker mechanics.
+Brick Breaker Evolution seamlessly blends nostalgia with a modern twist on retro brick breaker mechanics. It is 100% hand coded, and hand-drawn. No generative AI, no AI coding, only pure retro game experience.
 
 <b>Get ready to break some bricks!</b>
 
@@ -73,15 +79,15 @@ Brick Breaker Evolution seamlessly blends nostalgia with a modern twist on retro
 
 ✅ Hours of highly addictive, fast-paced, dynamic gameplay
 
-✅ 60 increasingly difficult levels (more to come)
+✅ 75 increasingly difficult levels (more to come)
 
-✅ 5 secret levels (more to come)
+✅ 6 secret levels (more to come)
 
-✅ 22 unique items to unlock as you advance in the game (more to come)
+✅ 26 unique items, 6 brick types, 7 unique obstacles and more to unlock as you advance in the game (more to come)
 
-✅ Retro-inspired hand-drawn graphics with a minimalist, distraction-free interface
+✅ Retro-inspired hand-drawn graphics with a minimalist, distraction-free interface. All artwork is hand-crafted, there is zero AI-slop
 
-✅ Engaging challenges with rewarding prizes
+✅ 4 tiers of engaging challenges with rewarding prizes
 
 ✅ Five difficulty levels
 
@@ -94,7 +100,7 @@ Brick Breaker Evolution seamlessly blends nostalgia with a modern twist on retro
 
 ## Data protection and privacy
 
-to learn more abouit how we handle your data, read our [Privacy Policy](https://brick-breaker-evolution.github.io/Privacy_Policy.html). To learn more about how Leaderboard data is processed in complete anonymity, see [this page](https://brick-breaker-evolution.github.io/my_data/data-privacy.html)
+To learn more about how the developer handles your data (hint: he does not), read the [Privacy Policy](https://brick-breaker-evolution.github.io/Privacy_Policy.html). To learn more about how Leaderboard data is processed in complete anonymity, see [this page](https://brick-breaker-evolution.github.io/my_data/data-privacy.html)
 
 
 <div align="center"><a href='https://play.google.com/store/apps/details?id=com.attilaoroszdev.brickpong&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></div>
