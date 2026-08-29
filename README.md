@@ -30,13 +30,14 @@ This is the <b>most dynamic brick breaker game</b> you have ever tried. Conquer 
 <p>✔ <b>Marble Ball:</b> Nothing can stop this one, not even metal bricks (unlocks on level 51), or caged bricks (unlocks on level 68)</p>
 <p>✔ <b>Sticky Pad:</b> A rail-attached pad that "captures" the ball, so you can aim your shots (unlocks on level 57)</p>
 <p>✔ <b>Secret Portals:</b> Hidden under metal bricks, these will lead you to secret levels when you find them. Once unlocked, they can appear on any level with at least 7 metal bricks (unlocks on level 60)</p>
-<p>✔ <b>Mystery Box:</b> Can contain anything from pad upgrades, to ball items, Brick Coins, extra score or even score loss.
-<p>✔ <b>Shooting Balls:</b> The ball gains two mini-guns, shooting at the brick as it flies.
-<p>✔ <b>Caged bricks:</b> Regular brick, imprisoned in a metal cage. Liberate them (with the appropriate items), so you can destroy them. (Any resemblance to recent world history is a complete coincidence...)
-<p>✔ <b>Da Big Bomb:</b> Like Da Bomb, bit BIG. Bigger Bang (it's actually a Bumm), and more destructive power. Use it against metal plated bricks, and even caged bricks
-<p>✔ <b>Magic Mirror:</b> When you enter the Mirrorverse, everything gets turned around, even the movements of the pad!. The effect lasts for 30 seconds.
-<p>✔ <b>Brickanator:</b> A Brick (re-)generator that will periodically turn itself on. If the ball hits it while active, it will restore a randm amount of already destroyed bricks.
+<p>✔ <b>Mystery Box:</b> Can contain anything from pad upgrades, to ball items, Brick Coins, extra score or even score loss.</p>
+<p>✔ <b>Shooting Balls:</b> The ball gains two mini-guns, shooting at the brick as it flies.</p>
+<p>✔ <b>Caged bricks:</b> Regular brick, imprisoned in a metal cage. Liberate them (with the appropriate items), so you can destroy them. (Any resemblance to recent world history is a complete coincidence...)</p>
+<p>✔ <b>Da Big Bomb:</b> Like Da Bomb, bit BIG. Bigger Bang (it's actually a Bumm), and more destructive power. Use it against metal plated bricks, and even caged bricks</p>
+<p>✔ <b>Magic Mirror:</b> When you enter the Mirrorverse, everything gets turned around, even the movements of the pad!. The effect lasts for 30 seconds.</p>
+<p>✔ <b>Brickanator:</b> A Brick (re-)generator that will periodically turn itself on. If the ball hits it while active, it will restore a randm amount of already destroyed bricks.</p>
 
+<br />
 
 Complete <b>various challenges</b> to earn Brick Coins, valuable items, and extra balls, and <b>replay any level as many times as you like</b>, as each game promises a unique experience.
 
